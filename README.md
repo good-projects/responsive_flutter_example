@@ -20,8 +20,8 @@ https://docs.flutter.dev/cookbook/effects/nested-nav
 
 ### iPhone
 
-<img src="https://raw.githubusercontent.com/good-projects/responsive_flutter_example/master/doc/iphone.png" alt="example" width="425">
+<img src="https://raw.githubusercontent.com/good-projects/responsive_flutter_example/main/doc/iphone.gif" alt="example" width="425">
 
 ### iPad
 
-<img src="https://raw.githubusercontent.com/good-projects/responsive_flutter_example/master/doc/ipad.png" alt="example" width="800">
+<img src="https://raw.githubusercontent.com/good-projects/responsive_flutter_example/main/doc/ipad.gif" alt="example" width="800">
